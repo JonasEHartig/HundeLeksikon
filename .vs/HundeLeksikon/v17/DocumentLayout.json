@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\jonas\\source\\repos\\HundeLeksikon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0E2A0CC-F7BF-430C-A350-2AFBEFB1A711}|HundeLeksikon\\HundeLeksikon.csproj|c:\\users\\jonas\\source\\repos\\hundeleksikon\\hundeleksikon\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E0E2A0CC-F7BF-430C-A350-2AFBEFB1A711}|HundeLeksikon\\HundeLeksikon.csproj|solutionrelative:hundeleksikon\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E0E2A0CC-F7BF-430C-A350-2AFBEFB1A711}|HundeLeksikon\\HundeLeksikon.csproj|c:\\users\\jonas\\source\\repos\\hundeleksikon\\hundeleksikon\\components\\pages\\hans.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E0E2A0CC-F7BF-430C-A350-2AFBEFB1A711}|HundeLeksikon\\HundeLeksikon.csproj|solutionrelative:hundeleksikon\\components\\pages\\hans.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E2A0CC-F7BF-430C-A350-2AFBEFB1A711}|HundeLeksikon\\HundeLeksikon.csproj|c:\\users\\jonas\\source\\repos\\hundeleksikon\\hundeleksikon\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0E2A0CC-F7BF-430C-A350-2AFBEFB1A711}|HundeLeksikon\\HundeLeksikon.csproj|solutionrelative:hundeleksikon\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0E2A0CC-F7BF-430C-A350-2AFBEFB1A711}|HundeLeksikon\\HundeLeksikon.csproj|c:\\users\\jonas\\source\\repos\\hundeleksikon\\hundeleksikon\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Error.razor",
               "DocumentMoniker": "C:\\Users\\jonas\\source\\repos\\HundeLeksikon\\HundeLeksikon\\Components\\Pages\\Error.razor",
               "RelativeDocumentMoniker": "HundeLeksikon\\Components\\Pages\\Error.razor",
@@ -83,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Hans.razor",
               "DocumentMoniker": "C:\\Users\\jonas\\source\\repos\\HundeLeksikon\\HundeLeksikon\\Components\\Pages\\Hans.razor",
               "RelativeDocumentMoniker": "HundeLeksikon\\Components\\Pages\\Hans.razor",
