@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HundeLeksikon.Client.props" />
+</Project>
